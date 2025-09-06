@@ -38,11 +38,11 @@
         DVORAK_Shift {
             display-name = "Shift";
             bindings = <
-&kp DOLLAR  &kp PLUS   &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp AMPERSAND  &tog 2                                                   &mo 5      &kp EQUAL  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp PIPE  &kp MINUS
-&kp TAB     &kp APOS   &kp COMMA         &kp DOT         &kp P                 &kp Y          &none                                                    &none      &kp F      &kp G                  &kp C            &kp R              &kp L     &kp SLASH
-&kp ESC     &kp A      &kp O             &kp E           &kp U                 &kp I          &none     &kp LCTRL  &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp D      &kp H                  &kp T            &kp N              &kp S     &kp MINUS
-&kp LSHFT   &kp SEMI   &kp Q             &kp J           &kp K                 &kp X                               &kp HOME      &kp PG_UP                        &kp B      &kp M                  &kp W            &kp V              &kp Z     &kp RSHFT
-&mo 4       &kp GRAVE  &kp CAPS          &kp LEFT        &kp RIGHT                            &kp BSPC  &kp DEL    &kp END       &kp PG_DN  &kp ENTER  &kp SPACE             &kp UP                 &kp DOWN         &kp QUESTION       &kp RBKT  &mo 4
+&kp TILDE  &kp N1     &kp N2     &kp N3    &kp N4     &kp N5  &tog 2                                                   &mo 5      &kp N6  &kp N7  &kp N8    &kp N9        &kp N0    &kp PERCENT
+&kp TAB    &kp APOS   &kp COMMA  &kp DOT   &kp P      &kp Y   &none                                                    &none      &kp F   &kp G   &kp C     &kp R         &kp L     &kp SLASH
+&kp ESC    &kp A      &kp O      &kp E     &kp U      &kp I   &none     &kp LCTRL  &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp D   &kp H   &kp T     &kp N         &kp S     &kp MINUS
+&kp LSHFT  &kp SEMI   &kp Q      &kp J     &kp K      &kp X                        &kp HOME      &kp PG_UP                        &kp B   &kp M   &kp W     &kp V         &kp Z     &kp RSHFT
+&mo 4      &kp GRAVE  &kp CAPS   &kp LEFT  &kp RIGHT          &kp BSPC  &kp DEL    &kp END       &kp PG_DN  &kp ENTER  &kp SPACE          &kp UP  &kp DOWN  &kp QUESTION  &kp RBKT  &mo 4
             >;
         };
 
